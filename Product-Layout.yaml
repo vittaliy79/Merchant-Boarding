@@ -16,13 +16,13 @@ productPage:
         - contextualNavigationCards: #cnav card
           - contextualNavigationCard:
             - title: Getting Started
-            - description: Get Started with Reporting.
+            - description: Get Started with Merchant Boarding.
             - link: 
               - type: markdown
               - uri: /docs/getting-started.md
           - contextualNavigationCard:
             - title: Tutorials
-            - description: Learn how to integrate with Reporting.
+            - description: Learn how to integrate with Merchant Boarding.
             - link: 
               - type: markdown
               - uri: /docs/tutorials.md
