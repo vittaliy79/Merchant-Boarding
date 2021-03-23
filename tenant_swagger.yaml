@@ -1,6 +1,6 @@
 openapi: 3.0.1
 info:
-  title: Reporting
+  title: Merchant Boarding
   description: API Descriptions
   version: '1.0'
   contact:
